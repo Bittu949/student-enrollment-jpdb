@@ -15,7 +15,7 @@
 
 ---
 
-## 📝 Description
+## Description
 
 The **Student Enrollment Form** is a web-based application developed using **HTML, Bootstrap, jQuery**, and **JsonPowerDB (JPDB)**.  
 The application allows users to **store, retrieve, update, and reset** student enrollment data efficiently using **Roll No as the primary key**.
@@ -24,7 +24,7 @@ The form dynamically changes its behavior based on whether a student record alre
 
 ---
 
-## 🚀 Benefits of Using JsonPowerDB
+## Benefits of Using JsonPowerDB
 
 - ⚡ **High Performance** – Fast read/write operations
 - 🧩 **Schema-Free** – No rigid table structure required
@@ -37,7 +37,7 @@ JsonPowerDB significantly reduces development time while offering reliable data 
 
 ---
 
-## 🔍 Scope of Functionalities
+## Scope of Functionalities
 
 - Add new student records
 - Fetch existing records using primary key
@@ -48,7 +48,7 @@ JsonPowerDB significantly reduces development time while offering reliable data 
 
 ---
 
-## 💡 Examples of Use
+## Examples of Use
 
 - Academic enrollment systems
 - Student registration portals
@@ -58,7 +58,7 @@ JsonPowerDB significantly reduces development time while offering reliable data 
 
 ---
 
-## 🖼 Illustrations
+## Illustrations
 
 - Form on page load
 - Auto-populated form for existing student
@@ -66,7 +66,7 @@ JsonPowerDB significantly reduces development time while offering reliable data 
 
 ---
 
-## 🗂 Release History
+## Release History
 
 | Version | Description | Date |
 |------|------------|------|
@@ -74,7 +74,7 @@ JsonPowerDB significantly reduces development time while offering reliable data 
 
 ---
 
-## 📊 Project Status
+## Project Status
 
 🟢 **Completed**
 
@@ -82,7 +82,7 @@ All required functionalities are implemented and tested successfully.
 
 ---
 
-## 📚 Sources
+## Sources
 
 - JsonPowerDB Official Documentation  
   https://login2explore.com/jpdb/docs.html
@@ -93,7 +93,7 @@ All required functionalities are implemented and tested successfully.
 
 ---
 
-## ℹ️ Other Information
+## Other Information
 
 - Database: `SCHOOL-DB`
 - Relation: `STUDENT-TABLE`
@@ -103,6 +103,6 @@ All required functionalities are implemented and tested successfully.
 
 ---
 
-## 📜 License
+## License
 
 This project is developed strictly for **educational purposes**.
